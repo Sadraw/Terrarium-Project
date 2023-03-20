@@ -4,5 +4,5 @@
 
 > My Terrarium: A project to learn about HTML, CSS, and DOM manipulation using JavaScript 
 
+![The Whole Project](https://github.com/Sadraw/Terrarium-Project/blob/main/images/Terrarium.png)
 
-<img>https://raw.githubusercontent.com/Sadraw/Terrarium-Project/main/images/Terrarium.png</img>
