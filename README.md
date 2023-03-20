@@ -6,5 +6,4 @@
 
 
 <img>
-![The Whole Project](<img src="The Whole Project" alt="./images/Terrarium.png">
-)
+![The Whole Project](https://raw.githubusercontent.com/Sadraw/Terrarium-Project/main/images/Terrarium.png)
