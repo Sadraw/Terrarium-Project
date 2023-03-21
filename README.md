@@ -5,6 +5,6 @@
 > My Terrarium: A project to learn about HTML, CSS, and DOM manipulation using JavaScript 
 
 
-<img>
-![The Whole Project](<img src="The Whole Project" alt="./images/Terrarium.png">
-)
+
+![The Whole Project](https://github.com/Sadraw/Terrarium-Project/blob/main/images/Terrarium.png)
+
