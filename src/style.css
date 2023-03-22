@@ -4,10 +4,22 @@ body {
     font-style: normal;
     
 }
+#button1 {
+	text-align: center;
+	font-size: medium;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	color: rgb(134, 96, 204) !important;
+}
+
+#myButton {
+	text-align:center;
+	font-size: medium;
+	right: 50%;
+}
 
 
 h1 {
-    color: blue ; 
+    color: blue  ; 
     text-align: center;
     /* it won't be blue. but we can make it be */
     /* by adding !important */
